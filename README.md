@@ -1,4 +1,7 @@
-Sign Language Recognition System
+Sign Language Recognition System:
+
+![developer](https://img.shields.io/badge/Developed%20By%20%3A-Kolla%20KiranKumar-red)
+---
 
 This project is a real-time Sign Language Recognition system that uses a Convolutional Neural Network (CNN) model trained on the ASL Alphabet dataset to recognize hand gestures from a webcam feed.
 
